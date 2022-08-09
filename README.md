@@ -17,11 +17,11 @@ The available conversion specifiers are:
 
 * %b: Prints the binary representation of an unsigned decimal.
 
-* %x: Prints the hexadecial representation of an unsigned decimal in lowercase letters
+* %x: Prints the hexadecial representation of an unsigned decimal in lowercase letters.
 
-* %X:Prints the hexadecial representation of an unsigned decimal in uppercase letters
+* %X: Prints the hexadecial representation of an unsigned decimal in uppercase letters.
 
-* %R: Prints the Rot13 interpretation of a string
+* %R: Prints the Rot13 interpretation of a string.
 
 * %s: Prints a string of characters.
 
